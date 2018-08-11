@@ -13,7 +13,7 @@ import en_core_web_sm
 import matplotlib
 
 matplotlib.use("Agg")
-from config import consumer_key, consumer_secret, access_token, access_token_secret
+#from config import consumer_key, consumer_secret, access_token, access_token_secret
 
 # Get config variable from environment variables
 #consumer_key = os.environ.get("consumer_key")
